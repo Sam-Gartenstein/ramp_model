@@ -1,0 +1,12 @@
+# Ignore entire data directory
+data/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
